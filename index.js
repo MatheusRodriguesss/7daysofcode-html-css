@@ -1,5 +1,7 @@
 /* Esse arquivo foi criado para manipular o menu responsivo */
 
+<button onclick="window.location.href = 'html/login.html';"> Entrar </button>
+
 const menu = document.querySelector('.menu')
 const menuIcon = document.querySelector('.sideMenu img')
 
